@@ -1,5 +1,7 @@
 # Peer-graded-Assignment
 # Data Science Final Project Notebook
+## Introduction
+This notebook demonstrates the use of markdown and code cells for various data science tasks. Each section below corresponds to a specific exercise.
 ## Data Science Languages
 - Python
 - R
